@@ -1,0 +1,40 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.honda-cbr-gray {
+    filter: grayscale(100%);
+}
+.honda-cbr-faq {
+    border: 1px solid #D5E5FB !important;
+}
+.honda-cbr-color {
+    background-color: #E76F51;
+    color: white;
+}
+.honda-cbr-color:hover {
+    background-color: #d15131;
+    color: white;
+}
+.honda-cbr-bg-info {
+    background: #264653;
+}
+.honda-cbr-txt-color {
+    color: #E0E0E0;
+}
+.honda-cbr-readme-btn {
+    color: #E76F51;
+    border: 2px solid #E76F51;
+}
+.honda-cbr-readme-btn:hover {
+    background-color: #E76F51 !important;
+    color: white;
+}
+.text-title {
+    color: #E76F51;
+}
+.rating-color {
+    color: #E77C40;
+}
+.footer-color, .bg-sm {
+    background-color: black;
+}
